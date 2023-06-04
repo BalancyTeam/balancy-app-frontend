@@ -1,7 +1,6 @@
 
 
-function App() {
-
+export const App = () => {
   return (
     <>
       <div>
@@ -11,4 +10,4 @@ function App() {
   )
 }
 
-export default App
+
